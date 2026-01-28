@@ -2,8 +2,8 @@
   "windows": {
     "version": "1.0.0",
     "build_number": "2",
-    "download_url": "https://raw.githubusercontent.com/PhiLongDo/release_viet_name_calendar/refs/heads/main/1.0.0.2/windows_x64/VietNamCalendar-windows.zip",
-    "file_size": 14781959,
-    "release_notes": "Test app update"
+    "download_url": "https://raw.githubusercontent.com/PhiLongDo/release_viet_name_calendar/refs/heads/main/1.0.0+2/windows_x64/viet_nam_calendar-1.0.0+2-windows-x64.zip",
+    "file_size": 14819515,
+    "release_notes": "First release"
   }
 }
