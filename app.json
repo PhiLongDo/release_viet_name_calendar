@@ -8,9 +8,9 @@
   },
   "macos": {
     "version": "1.0.1",
-    "build_number": "1",
-    "download_url": "https://raw.githubusercontent.com/PhiLongDo/release_viet_name_calendar/refs/heads/main/1.0.0+1/macos-intel/viet-nam-calendar-1.0.0+1-macos-intel.zip",
-    "file_size": 21456118,
+    "build_number": "2",
+    "download_url": "https://raw.githubusercontent.com/PhiLongDo/release_viet_name_calendar/refs/heads/main/1.0.0+2/macos-intel/viet-nam-calendar-1.0.0+2-macos-intel.zip",
+    "file_size": 21511181,
     "release_notes": "First release"
-  },
+  }
 }
