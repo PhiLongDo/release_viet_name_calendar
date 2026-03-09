@@ -1,10 +1,10 @@
 {
   "windows": {
     "version": "1.0.1",
-    "build_number": "20260308",
-    "download_url": "https://raw.githubusercontent.com/PhiLongDo/release_viet_name_calendar/refs/heads/main/1.0.1+20260308/windows_x64/viet_nam_calendar-1.0.1+20260308-windows-x64.zip",
-    "file_size": 14865306,
-    "release_notes": "- Thêm các ngày lễ ở Việt Nam.\n- Thêm màn hình xem chi tiết sự kiện.\n- Thêm cài đặt ẩn/hiện ngày các tháng liền kề.\n- Sửa lỗi."
+    "build_number": "20260309",
+    "download_url": "https://raw.githubusercontent.com/PhiLongDo/release_viet_name_calendar/refs/heads/main/1.0.1+20260309/windows_x64/viet_nam_calendar-1.0.1+20260309-windows-x64.zip",
+    "file_size": 14872604,
+    "release_notes": "- Thêm các ngày lễ ở Việt Nam.\n- Thêm màn hình xem chi tiết sự kiện.\n- Thêm cài đặt ẩn/hiện ngày các tháng liền kề.\n- Tăng cường trải nghiệm người dùng.\n- Sửa lỗi."
   },
   "macos": {
     "version": "1.0.1",
